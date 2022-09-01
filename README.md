@@ -1,5 +1,9 @@
 # eureka_main
+-----------------------
+변동사항 : 각 repository별로 흩어져있던 서비스들을 하나의 repository에서 관리함
 eureka-main repository
+-------------------------
+
 
 
 NFT 거래 시스템에서 Service Discovery를 담당하는 서비스 입니다.

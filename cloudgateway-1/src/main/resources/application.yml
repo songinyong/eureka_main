@@ -1,0 +1,40 @@
+
+spring: 
+   application: 
+      name: gateway
+   cloud:
+      gateway:
+        routes:
+          - id: POST-CLIENT
+            uri: lb://POST-CLIENT
+            predicates:
+             - Path=/posts/**
+           # filters:
+           #  - name: JwtAuthenticationFilter2
+        
+          - id: LOGIN-CLIENT
+            uri: lb://LOGIN-CLIENT
+            predicates:
+              - Path=/user/**    
+          
+          - id: BLOCKCHAIN-CLIENT
+            uri: lb://BLOCKCHAIN-CLIENT
+            predicates:
+             - Path=/chain/**
+         
+server: 
+    port: 5555
+    
+    
+
+eureka: 
+    
+    client: 
+      service-url:
+          fetchRegistry: true
+          preferIpAddress: true
+          registerWithEureka: true
+          defaultZone: http://54.180.114.232:8761/eureka/
+               
+jwt:
+  secret: ENC(nugQJ8BkKGjd6l6OruPwT7cpYiaQgfYzhYBaMPXPihg=)

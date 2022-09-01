@@ -4,7 +4,9 @@
 eureka-main repository
 -------------------------
 
-![image33](https://user-images.githubusercontent.com/30370933/187868417-36f51656-a1a4-4d3e-9064-77a9dc35713a.gif)![image34](https://user-images.githubusercontent.com/30370933/187868442-925b23e4-e509-4e73-bb2b-1689542e0265.gif)![image32](https://user-images.githubusercontent.com/30370933/187868449-1ab800cd-c42b-4266-8d05-aa0a92b4df8d.gif)
+![image33](https://user-images.githubusercontent.com/30370933/187868417-36f51656-a1a4-4d3e-9064-77a9dc35713a.gif){: width="150" height="200"}
+![image34](https://user-images.githubusercontent.com/30370933/187868442-925b23e4-e509-4e73-bb2b-1689542e0265.gif){: width="150" height="200"}
+![image32](https://user-images.githubusercontent.com/30370933/187868449-1ab800cd-c42b-4266-8d05-aa0a92b4df8d.gif){: width="150" height="200"}
 
 ![nft4](https://user-images.githubusercontent.com/30370933/187867659-c17497c9-b90a-4c57-9d34-44dd39dc5787.png)
 

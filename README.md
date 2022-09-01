@@ -1,7 +1,11 @@
 # Klaytn 기반 NFT 거래 MVP 앱 
+
+klaytn기반으로 NFT 아이템을 생성하고 FT 토큰을 통해 거래하는 앱입니다.
+
+
 -----------------------
 변동사항 : 각 repository별로 흩어져있던 서비스들을 하나의 repository에서 관리함
-eureka-main repository
+
 -------------------------
 <div class="grid-image">
 <img src=https://user-images.githubusercontent.com/30370933/187868417-36f51656-a1a4-4d3e-9064-77a9dc35713a.gif width="200" height="300">
@@ -40,6 +44,7 @@ https://dull-plough-973.notion.site/NFT-bb9f31bdc9fc4138b23366969956afce
 
 api 관리 문서
 -----------------------
+https://songinyong.gitbook.io/nft/
 
 
 
